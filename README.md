@@ -39,7 +39,7 @@ Visualized feature importance using SHAP (SHapley Additive exPlanations) for int
 
 Results Visualization:
 Plotted Actual vs Predicted RUL for test samples.
-Visualized model performance metrics like ROC and confusion matrix.
+Visualized model with confusion matrix.
 
 Model Saving:
 Saved the trained XGBoost model in JSON format for easy deployment.
